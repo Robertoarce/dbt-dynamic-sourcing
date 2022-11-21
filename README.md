@@ -14,3 +14,6 @@ Many Datasets are loaded/exchanged/updated to GCP making it necessary to update 
 1) Get dataset information through GCP information in run-time.
 2) Adapt script with information from point 1 by leveraging dbt-jinja capabilities.
 3) Use dynamic sourcing for each dataset found in GCP.
+
+# Cons:
+1) No lineage trace on dbt since is dynamically traced and not statically.
