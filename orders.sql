@@ -1,5 +1,5 @@
 */
-About the data:
+About the data: PLEASE Do not try to understand the exchanges in data, but rather the DBT usage!!
 
 In this example we have several companies aka 'brands'.
 Each brand has their own datasets and each data set has their own columns.
@@ -88,7 +88,7 @@ order_conversion_base AS  --<< common table
     FROM
         {{ ref('shopify_orders_pre_base_core') }}
 )
-
+ 
 ------------------------------------------------------------
 ----------  order_discount_code (uncomon table)    ---------
 ------------------------------------------------------------
