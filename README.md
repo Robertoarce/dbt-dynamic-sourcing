@@ -13,7 +13,8 @@ Imagine the following:
 3) Each Table must contain the same columns (just for the simplicity)
 
 ### >>PLEASE OBSERVE that entity 2 does not have CRM Dataset as entity 1 has 
-###  and the Sales Dataset does not have the same 3 tables as entity 1. <<
+
+###  AND the Sales Dataset does not have the same 3 tables as entity 1 (color purple and Rose). <<
 
 
 
