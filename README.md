@@ -1,4 +1,4 @@
-# dbt-dynamic-sourcing
+# Dynamic sourcing with Dbt
 This script shows a way to dynamically source different data sets without the need to bring explicit naming to the data sources.
 
 This project leverages DBT to aggregate and transform data across multiple datasets in a data warehouse. By dynamically handling variations in available datasets and their columns, the tool ensures comprehensive and error-free data analysis across different datasets.
